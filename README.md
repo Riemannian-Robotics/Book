@@ -7,6 +7,9 @@ Main authors: [Noémie Jaquier](https://njaquier.ch) and [Leonel Rozo](https://l
 
 Contributors: Hans-Peter Schröcker, Arne Sachtler, Søren Hauberg, Andras Kupcsik, Suvrit Sra, and Alin Albu-Schäffer
 
+### 
+If you have trouble downloading the book from the repo, you can also access it [here](https://drive.google.com/file/d/1REtH0APlOyL8hrsWpxwDeDwei7aBXXGi/view?usp=sharing).
+
 ![book](images/cover.png) 
 
 ## Accompanying Tutorial Videos
