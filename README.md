@@ -7,8 +7,8 @@ Main authors: [Noémie Jaquier](https://njaquier.ch) and [Leonel Rozo](https://l
 
 Contributors: Hans-Peter Schröcker, Arne Sachtler, Søren Hauberg, Andras Kupcsik, Suvrit Sra, and Alin Albu-Schäffer
 
-### 
-If you have trouble downloading the book from the repo, you can also access it [here](https://drive.google.com/file/d/1REtH0APlOyL8hrsWpxwDeDwei7aBXXGi/view?usp=sharing).
+## Downloading the Book Preprint
+You can download the book preprint directly from the repository files above. If this does not work, you can also download it from the folder "Releases" (right side of the page), "Book Preprint 01.06.2026", by selecting the corresponding pdf file. 
 
 ![book](images/cover.png) 
 
