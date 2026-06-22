@@ -20,7 +20,7 @@ The book is accompanied by the recordings of three 1-day tutorials, whose YouTub
 
 - [**Riemann and Gauss meet Asimov: 2nd tutorial on Geometric Methods in Robot Learning, Optimization, and Control**](https://www.youtube.com/playlist?list=PL_oEZ6dld4ij-AyByAe5Adum1lLedJV4_), ICRA 2024.
 
-- **Riemann and Gauss meet Asimov: 3rd tutorial on Geometric Methods in Robot Learning, Optimization, and Control**, ICRA 2026. To be released soon.
+- [**Riemann and Gauss meet Asimov: 3rd tutorial on Geometric Methods in Robot Learning, Optimization, and Control**](https://www.youtube.com/playlist?list=PL_oEZ6dld4ihH9KqWUeymxWeoQch7a6V2), ICRA 2026. 
 
 ## How to Cite this Book?
 When using content from a specific chapter, please cite the book chapter. You can find the bibliography entry for each chapter in the dropdown menu below.
